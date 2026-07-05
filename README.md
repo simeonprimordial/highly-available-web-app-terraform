@@ -236,7 +236,7 @@ terraform destroy
 ```
 
 <p align="center">
-  <img src="diagrams/terraform-workflow.png" alt="Terraform Workflow" width="900">
+  <img src="diagrams/terraform-workflow.png" alt="Terraform Workflow" width="450">
 </p>
 
 ---
