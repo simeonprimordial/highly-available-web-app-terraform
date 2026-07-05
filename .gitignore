@@ -4,8 +4,6 @@
 # Windows
 Thumbs.db
 
-# VS Code
-.vscode/
 
 # Terraform
 **/.terraform/
@@ -13,6 +11,9 @@ Thumbs.db
 **/*.tfstate.*
 **/terraform.tfvars
 **/crash.log
+
+# VS Code
+.vscode/
 
 # Logs
 *.log
