@@ -84,7 +84,7 @@ The solution ensures that traffic is distributed across healthy EC2 instances wh
 # Architecture
 
 <p align="center">
-  <img src="diagrams/architecture.png" alt="AWS Architecture" width="900">
+  <img src="diagrams/architecture.png" alt="AWS Architecture" width="450">
 </p>
 
 
@@ -236,7 +236,7 @@ terraform destroy
 ```
 
 <p align="center">
-  <img src="diagrams/terraform-workflow.png" alt="Terraform Workflow" width="900">
+  <img src="diagrams/terraform-workflow.png" alt="Terraform Workflow" width="450">
 </p>
 
 ---
