@@ -130,6 +130,7 @@ highly-available-web-app-terraform/
 
 ## Networking
 
+
 - Default AWS VPC
 - Default Subnets across multiple Availability Zones
 
