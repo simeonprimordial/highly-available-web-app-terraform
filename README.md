@@ -81,7 +81,12 @@ The solution ensures that traffic is distributed across healthy EC2 instances wh
                   Apache Web Server
 ```
 
-*A graphical architecture diagram is available in the `/diagrams` directory.*
+# Architecture
+
+<p align="center">
+  <img src="diagrams/architecture.png" alt="AWS Architecture" width="900">
+</p>
+
 
 ---
 
@@ -229,6 +234,10 @@ Destroy infrastructure:
 ```bash
 terraform destroy
 ```
+
+<p align="center">
+  <img src="diagrams/terraform-workflow.png" alt="Terraform Workflow" width="900">
+</p>
 
 ---
 
